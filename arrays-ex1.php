@@ -1,6 +1,7 @@
 <?php
 
-
+// a lot of tests/exercices with php arrays
+// varios exercicios com arrays em PHP
 
 // $nomes[] = "Rodrigo";
 // $nomes[] = "Rafaela";
@@ -48,14 +49,7 @@
 // $ar = compact("nome","email","endereco");
 // print_r($ar);
 
-$clientes = [
-    'Rodrigo',
-    'Amanda',
-    'Flavia',
-    'Rachel',
-    'Rafaela',
-    'Tricia'
-];
+// $clientes = [ 'Rodrigo', 'Amanda', 'Flavia', 'Rachel', 'Rafaela', 'Tricia' ];
 
 // next($clientes);
 // echo current($clientes) . PHP_EOL;
