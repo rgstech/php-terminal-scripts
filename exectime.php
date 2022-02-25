@@ -1,5 +1,6 @@
 <?php
 
+//medir tempo de execução / execution time
 
 $start = microtime(true);
 
