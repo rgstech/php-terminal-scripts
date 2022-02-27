@@ -10,4 +10,4 @@ for($i = 10; $i <= 100; $i++) {
 
 $end = microtime(true);
 
-echo "\n tempo decorrido = " . $start - $end;
+echo "\n tempo decorrido = " . ((float)$end - (float)$start);
