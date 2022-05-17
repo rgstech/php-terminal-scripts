@@ -7,7 +7,6 @@ $frutas2 = ['Abacate','Melancia', ...$frutas];
 
 print_r($frutas2);
 
-
 class Clientes implements Iterator
 {
 
