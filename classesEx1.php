@@ -5,7 +5,7 @@
 
    public function println($str = "")
    {
-       echo $str . '\n';
+       echo $str . PHP_EOL;
    }
 
 
